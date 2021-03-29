@@ -20,8 +20,8 @@
             **/dto/**,
             **/ClienteApplication*
         </sonar.exclusions>
-		<sonar.projectKey>andretecnologia_clientes</sonar.projectKey>
-		<sonar.organization>andretecnologia</sonar.organization>
+		<sonar.projectKey>cordeiro21_cliente_8</sonar.projectKey>
+		<sonar.organization>cordeiro21</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
